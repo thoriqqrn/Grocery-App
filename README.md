@@ -1,6 +1,9 @@
-# belajar_bloc
+# GROCERY APP
 
-A new Flutter project.
+A new Flutter BLOC State Management project.
+
+![image](https://github.com/thoriqqrn/Grocery-App/assets/153405232/c93d656b-50e5-44f9-a280-464fb4ca220d)
+
 
 ## Getting Started
 
